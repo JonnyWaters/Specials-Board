@@ -4,7 +4,7 @@ Specials Board: A Light-On-Dark .seestyle Theme for Panic Coda
 Requirements
 ------------
 
-Panic Coda 1.6.11 or higher. For Panic Coda Versions less than 1.6.11 use [Specials Board v2.1](http://github.com/jbergantine/Specials-Board/downloads)
+Panic Coda 1.6.11 - 1.7.x. For Panic Coda Versions less than 1.6.11 use [Specials Board v2.1](http://github.com/jbergantine/Specials-Board/downloads). This version is incompatible with Panic Coda 2.0 and higher which include it by default.
 
 Installation
 ------------
